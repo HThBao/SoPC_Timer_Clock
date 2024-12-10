@@ -3,11 +3,9 @@
  *
  *  Created on: Jan 16, 2024
  *      Author: HThBao
- * This program use 2 timer is Real time and System time
  * Real time is counter reg
  * System time use IRQ of system Timer
  * The LED 7 Segment show Real time
- * After each 15 minute "Real Time" will be "Update" from "System Timer"
  */
 #include <stdio.h>
 #include "io.h"
