@@ -3,7 +3,6 @@
  *
  *  Created on: Jan 16, 2024
  *      Author: HThBao
- * Real time is counter reg
  * System time use IRQ of system Timer
  * The LED 7 Segment show Real time
  */
