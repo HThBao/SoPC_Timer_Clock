@@ -9,7 +9,7 @@ Figure 1. Overview of the Hardware System
 
 The program utilizes Quartus 18.1 along with the Nios II software for execution.
 
-* Overall Functionality
+Overall Functionality
 - Time Display: The clock displays real-time (hours:minutes:seconds) on six 7-segment LEDs (2 for hours, 2 for minutes, 2 for seconds).
 
 - Control via Switches:
