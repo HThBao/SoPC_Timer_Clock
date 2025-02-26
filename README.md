@@ -1,1 +1,4 @@
 # SoPC_Timer_Clock
+This program aims to develop a real-time clock system capable of managing and displaying time (hours, minutes, seconds) within an FPGA environment. The system utilizes the hardware components of the DE10-Standard board, including a timer module, seven-segment LED displays for output visualization, and physical switches for controlling clock functions.
+
+The program utilizes Quartus 18.1 along with the Nios II software for execution.
