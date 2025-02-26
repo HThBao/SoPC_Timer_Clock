@@ -13,6 +13,7 @@ Overall Functionality
 - Time Display: The clock displays real-time (hours:minutes:seconds) on six 7-segment LEDs (2 for hours, 2 for minutes, 2 for seconds).
 
 - Control via Switches:
+
 SW0: Resets the time to 0.
 
 SW1: Stops (ON) or resumes (OFF) the timer.
