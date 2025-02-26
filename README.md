@@ -14,8 +14,11 @@ Overall Functionality
 
 - Control via Switches:
 SW0: Resets the time to 0.
+
 SW1: Stops (ON) or resumes (OFF) the timer.
+
 SW2: Increases speed (ON, 5MHz) or returns to normal speed (OFF, 50MHz).
+
 Timer Speed: Can operate at 50MHz (1 real second ≈ 1 counted second) or 5MHz (10 times faster).
 
 - Time Update: The timer generates periodic interrupts to increment the counter and update the display.
