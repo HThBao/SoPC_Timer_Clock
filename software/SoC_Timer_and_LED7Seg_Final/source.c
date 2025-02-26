@@ -4,7 +4,7 @@
  *  Created on: Jan 16, 2024
  *      Author: HThBao
  * System time use IRQ of system Timer
- * The LED 7 Segment show Real time
+ * The LED 7 Segment display time
  */
 #include <stdio.h>
 #include "io.h"
